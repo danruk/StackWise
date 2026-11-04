@@ -1,6 +1,6 @@
 # StackWise
 
-StackWise is an individual project focused on building a Stack Overflow knowledge system that helps developers discover relevant programming solutions from historical Q&A data.
+StackWise is a project focused on building a Stack Overflow knowledge system that helps developers discover relevant programming solutions from historical Q&A data.
 
 ## Project Goal
 
