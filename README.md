@@ -3,8 +3,6 @@
 
 StackWise is a planned two-person project that builds and analyzes a knowledge network from Stack Overflow. It combines social network analysis and text analysis to study who helps whom, the cognitive levels of questions and the toxicity of answers.
 
-StackWise is a project focused on building a Stack Overflow knowledge system that helps developers discover relevant programming solutions from historical Q&A data.
-
 
 ## Project Goal and Scope
 
