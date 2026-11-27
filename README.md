@@ -21,6 +21,7 @@ Research questions:
 - Export question and answer CSVs with post IDs, user IDs, titles, bodies, tags, timestamps, and accepted-answer indicators where available.
 - Document collection parameters, pagination, quota/backoff handling, and missing records. Exclude interactions without identifiable asker or answerer IDs from the graph and report the exclusions.
 - Clean HTML and separate code from prose so code tokens do not dominate verb matching or toxicity scoring. Preserve raw text for review.
+- The pilot script collects Python-tagged Stack Overflow questions and their answers. It saves the original HTML and cleaned text in two CSV files linked by question_id. After installing the dependencies, runs python3 scripts/collect_data.py from the project folder.
 
 ## 2. User Interaction Network
 
